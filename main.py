@@ -3,6 +3,8 @@ from pyclarify import Client
 client = Client("./ClarifyCredentials_Test_cl6vk0j8613mgkgeindg.json")
 
 from pyclarify import Signal
+# test
+
 
 signal = Signal(
     name = "Home temperature",
